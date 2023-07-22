@@ -27,7 +27,7 @@ Meituan_minsu Scraper is a Python-based web scraping tool that allows users to c
 2. **Installation**: Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your_username/Meituan_minsu-scraper.git
+   git clone https://github.com/theDwarfPP/Meituan_minsu-scraper.git
    ```
 
 3. **Install Dependencies**: Navigate to the project directory and install the required dependencies using `pip`:
