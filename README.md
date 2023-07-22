@@ -12,7 +12,7 @@ Meituan_minsu Scraper is a Python-based web scraping tool that allows users to c
 
 ## Features
 
-- **Data Scraping**: Easily scrape data from Meituan_minsu using the powerful `scrapct` framework.
+- **Data Scraping**: Easily scrape data from Meituan_minsu using the powerful `scrapy` framework.
 
 - **Customizable**: You can easily customize the scraping parameters and data collection based on your specific research needs.
 
